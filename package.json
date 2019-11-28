@@ -1,0 +1,20 @@
+{
+  "name": "test-deploy-npm",
+  "version": "1.0.1",
+  "description": "NPM 배포 테스트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-thecool/test-deploy-npm.git"
+  },
+  "keywords": [],
+  "author": "shawn-thecool <shawn-dev@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawn-thecool/test-deploy-npm/issues"
+  },
+  "homepage": "https://github.com/shawn-thecool/test-deploy-npm#readme"
+}
